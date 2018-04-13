@@ -1,0 +1,3 @@
+﻿r::
+   send, w
+Return
